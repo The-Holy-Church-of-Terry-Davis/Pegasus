@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pegasus.Client", "Client\Pegasus.Client.csproj", "{10E5796C-F6B6-4595-BDC7-1298E28DE80B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{DA1C8B10-B4D2-44BC-8F8D-95246433F52C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{10E5796C-F6B6-4595-BDC7-1298E28DE80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10E5796C-F6B6-4595-BDC7-1298E28DE80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10E5796C-F6B6-4595-BDC7-1298E28DE80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1C8B10-B4D2-44BC-8F8D-95246433F52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1C8B10-B4D2-44BC-8F8D-95246433F52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1C8B10-B4D2-44BC-8F8D-95246433F52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1C8B10-B4D2-44BC-8F8D-95246433F52C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
