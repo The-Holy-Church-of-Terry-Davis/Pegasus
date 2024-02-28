@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Pegasus.Client": {
+      "commandName": "Project"
+    }
+  }
+}
